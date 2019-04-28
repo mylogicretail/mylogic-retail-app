@@ -1,0 +1,35 @@
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\Retail.Adapter.dll.config
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\Retail.Adapter.dll
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\Retail.Adapter.pdb
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\EntityFramework.dll
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\Retail.Interface.dll
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\Retail.Model.dll
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\Retail.Interface.pdb
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\Retail.Model.pdb
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\EntityFramework.xml
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\RetailStoreApp\Retail.Adapter\obj\Debug\MyLogicRetail.Adapter.csprojAssemblyReference.cache
+E:\Projects\RetailStoreApp\Retail.Adapter\obj\Debug\MyLogicRetail.Adapter.Migrations.Test.resources
+E:\Projects\RetailStoreApp\Retail.Adapter\obj\Debug\MyLogicRetail.Adapter.csproj.GenerateResource.cache
+E:\Projects\RetailStoreApp\Retail.Adapter\obj\Debug\MyLogicRetail.Adapter.csproj.CoreCompileInputs.cache
+E:\Projects\RetailStoreApp\Retail.Adapter\obj\Debug\MyLogicRetail.Adapter.csproj.CopyComplete
+E:\Projects\RetailStoreApp\Retail.Adapter\obj\Debug\Retail.Adapter.dll
+E:\Projects\RetailStoreApp\Retail.Adapter\obj\Debug\Retail.Adapter.pdb
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\bin\Debug\Retail.Adapter.dll.config
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\bin\Debug\Retail.Adapter.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\bin\Debug\Retail.Adapter.pdb
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\bin\Debug\EntityFramework.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\bin\Debug\Retail.Interface.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\bin\Debug\Retail.Model.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\bin\Debug\Retail.Interface.pdb
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\bin\Debug\Retail.Model.pdb
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\bin\Debug\EntityFramework.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\obj\Debug\MyLogicRetail.Adapter.csprojResolveAssemblyReference.cache
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\obj\Debug\MyLogicRetail.Adapter.Migrations.Test.resources
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\obj\Debug\MyLogicRetail.Adapter.csproj.GenerateResource.Cache
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\obj\Debug\MyLogicRetail.Adapter.csproj.CoreCompileInputs.cache
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\obj\Debug\Retail.Adapter.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Adapter\obj\Debug\Retail.Adapter.pdb

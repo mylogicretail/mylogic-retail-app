@@ -1,0 +1,181 @@
+E:\Projects\RetailStoreApp\Retail.Services\bin\roslyn\csc.exe
+E:\Projects\RetailStoreApp\Retail.Services\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\RetailStoreApp\Retail.Services\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\RetailStoreApp\Retail.Services\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\roslyn\vbc.exe
+E:\Projects\RetailStoreApp\Retail.Services\bin\roslyn\VBCSCompiler.exe
+E:\Projects\RetailStoreApp\Retail.Services\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\RetailStoreApp\Retail.Services\bin\Retail.Services.dll.config
+E:\Projects\RetailStoreApp\Retail.Services\bin\Retail.Services.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Retail.Services.pdb
+E:\Projects\RetailStoreApp\Retail.Services\bin\Antlr3.Runtime.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\EntityFramework.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\EntityFramework.SqlServer.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Security.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Newtonsoft.Json.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Owin.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Retail.Adapter.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Retail.Interface.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Retail.Model.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Net.Http.Extensions.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Net.Http.Formatting.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Net.Http.Primitives.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.Helpers.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.Http.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.Http.Owin.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.Http.WebHost.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.Mvc.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.Optimization.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.Razor.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.WebPages.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.WebPages.Razor.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\WebGrease.dll
+E:\Projects\RetailStoreApp\Retail.Services\bin\Retail.Adapter.pdb
+E:\Projects\RetailStoreApp\Retail.Services\bin\Retail.Adapter.dll.config
+E:\Projects\RetailStoreApp\Retail.Services\bin\Retail.Interface.pdb
+E:\Projects\RetailStoreApp\Retail.Services\bin\Retail.Model.pdb
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Net.Http.Extensions.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Net.Http.Formatting.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Net.Http.Primitives.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\Newtonsoft.Json.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.Helpers.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.Http.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.Http.WebHost.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.Mvc.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.Optimization.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.Razor.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.WebPages.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.WebPages.Razor.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\Antlr3.Runtime.pdb
+E:\Projects\RetailStoreApp\Retail.Services\bin\EntityFramework.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\EntityFramework.SqlServer.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Security.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\RetailStoreApp\Retail.Services\bin\System.Web.Http.Owin.xml
+E:\Projects\RetailStoreApp\Retail.Services\obj\Debug\MyLogicRetail.Services.csproj.App.config
+E:\Projects\RetailStoreApp\Retail.Services\obj\Debug\MyLogicRetail.Services.csprojAssemblyReference.cache
+E:\Projects\RetailStoreApp\Retail.Services\obj\Debug\MyLogicRetail.Services.csproj.CoreCompileInputs.cache
+E:\Projects\RetailStoreApp\Retail.Services\obj\Debug\MyLogicRetail.Services.csproj.CopyComplete
+E:\Projects\RetailStoreApp\Retail.Services\obj\Debug\Retail.Services.dll
+E:\Projects\RetailStoreApp\Retail.Services\obj\Debug\Retail.Services.pdb
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\roslyn\csc.exe
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\roslyn\System.Collections.Immutable.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\roslyn\System.Reflection.Metadata.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\roslyn\vbc.exe
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\roslyn\VBCSCompiler.exe
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\roslyn\VBCSCompiler.exe.config
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Retail.Services.dll.config
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Retail.Services.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Retail.Services.pdb
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Antlr3.Runtime.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\EntityFramework.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\EntityFramework.SqlServer.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.AspNet.Identity.Core.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Security.Cookies.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Security.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Security.Facebook.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Security.Google.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Security.OAuth.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Security.Twitter.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Web.Infrastructure.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Newtonsoft.Json.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Owin.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Retail.Adapter.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Retail.Interface.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Retail.Model.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Net.Http.Extensions.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Net.Http.Formatting.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Net.Http.Primitives.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.Helpers.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.Http.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.Http.Owin.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.Http.WebHost.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.Mvc.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.Optimization.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.Razor.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.WebPages.Deployment.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.WebPages.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.WebPages.Razor.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\WebGrease.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Retail.Adapter.pdb
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Retail.Adapter.dll.config
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Retail.Interface.pdb
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Retail.Model.pdb
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Net.Http.Extensions.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Net.Http.Formatting.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Net.Http.Primitives.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Newtonsoft.Json.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.Helpers.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.Http.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.Http.WebHost.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.Mvc.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.Optimization.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.Razor.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.WebPages.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.WebPages.Deployment.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.WebPages.Razor.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Antlr3.Runtime.pdb
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\EntityFramework.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\EntityFramework.SqlServer.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.AspNet.Identity.Core.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Security.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Security.Facebook.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Security.Cookies.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Security.OAuth.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Security.Google.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Security.Twitter.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\bin\System.Web.Http.Owin.xml
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\obj\Debug\MyLogicRetail.Services.csproj.App.config
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\obj\Debug\MyLogicRetail.Services.csprojResolveAssemblyReference.cache
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\obj\Debug\MyLogicRetail.Services.csproj.CoreCompileInputs.cache
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\obj\Debug\Retail.Services.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Services\obj\Debug\Retail.Services.pdb

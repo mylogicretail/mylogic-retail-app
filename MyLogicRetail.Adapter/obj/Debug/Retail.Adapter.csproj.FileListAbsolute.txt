@@ -1,0 +1,16 @@
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\Retail.Adapter.dll.config
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\Retail.Adapter.dll
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\Retail.Adapter.pdb
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\EntityFramework.dll
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\EntityFramework.xml
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\RetailStoreApp\Retail.Adapter\obj\Debug\Retail.Adapter.csprojResolveAssemblyReference.cache
+E:\Projects\RetailStoreApp\Retail.Adapter\obj\Debug\Retail.Adapter.dll
+E:\Projects\RetailStoreApp\Retail.Adapter\obj\Debug\Retail.Adapter.pdb
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\Retail.Model.dll
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\Retail.Model.pdb
+E:\Projects\RetailStoreApp\Retail.Adapter\obj\Debug\Retail.Adapter.Migrations.Test.resources
+E:\Projects\RetailStoreApp\Retail.Adapter\obj\Debug\Retail.Adapter.csproj.GenerateResource.Cache
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\Retail.Interface.dll
+E:\Projects\RetailStoreApp\Retail.Adapter\bin\Debug\Retail.Interface.pdb

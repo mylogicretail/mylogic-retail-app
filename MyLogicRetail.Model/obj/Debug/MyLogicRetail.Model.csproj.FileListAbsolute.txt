@@ -1,0 +1,11 @@
+E:\Projects\RetailStoreApp\Retail.Model\bin\Debug\Retail.Model.dll
+E:\Projects\RetailStoreApp\Retail.Model\bin\Debug\Retail.Model.pdb
+E:\Projects\RetailStoreApp\Retail.Model\obj\Debug\MyLogicRetail.Model.csproj.CoreCompileInputs.cache
+E:\Projects\RetailStoreApp\Retail.Model\obj\Debug\Retail.Model.dll
+E:\Projects\RetailStoreApp\Retail.Model\obj\Debug\Retail.Model.pdb
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Model\bin\Debug\Retail.Model.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Model\bin\Debug\Retail.Model.pdb
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Model\obj\Debug\MyLogicRetail.Model.csprojResolveAssemblyReference.cache
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Model\obj\Debug\MyLogicRetail.Model.csproj.CoreCompileInputs.cache
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Model\obj\Debug\Retail.Model.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Model\obj\Debug\Retail.Model.pdb

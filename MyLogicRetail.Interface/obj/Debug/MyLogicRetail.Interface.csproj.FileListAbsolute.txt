@@ -1,0 +1,17 @@
+E:\Projects\RetailStoreApp\Retail.Interface\bin\Debug\Retail.Interface.dll
+E:\Projects\RetailStoreApp\Retail.Interface\bin\Debug\Retail.Interface.pdb
+E:\Projects\RetailStoreApp\Retail.Interface\bin\Debug\Retail.Model.dll
+E:\Projects\RetailStoreApp\Retail.Interface\bin\Debug\Retail.Model.pdb
+E:\Projects\RetailStoreApp\Retail.Interface\obj\Debug\MyLogicRetail.Interface.csprojAssemblyReference.cache
+E:\Projects\RetailStoreApp\Retail.Interface\obj\Debug\MyLogicRetail.Interface.csproj.CoreCompileInputs.cache
+E:\Projects\RetailStoreApp\Retail.Interface\obj\Debug\MyLogicRetail.Interface.csproj.CopyComplete
+E:\Projects\RetailStoreApp\Retail.Interface\obj\Debug\Retail.Interface.dll
+E:\Projects\RetailStoreApp\Retail.Interface\obj\Debug\Retail.Interface.pdb
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Interface\bin\Debug\Retail.Interface.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Interface\bin\Debug\Retail.Interface.pdb
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Interface\bin\Debug\Retail.Model.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Interface\bin\Debug\Retail.Model.pdb
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Interface\obj\Debug\MyLogicRetail.Interface.csprojResolveAssemblyReference.cache
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Interface\obj\Debug\MyLogicRetail.Interface.csproj.CoreCompileInputs.cache
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Interface\obj\Debug\Retail.Interface.dll
+D:\My Docs\JP\MyLogicRetail\MyLogicRetail.Interface\obj\Debug\Retail.Interface.pdb

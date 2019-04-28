@@ -1,0 +1,6 @@
+E:\Projects\RetailStoreApp\Retail.Interface\bin\Debug\Retail.Interface.dll
+E:\Projects\RetailStoreApp\Retail.Interface\bin\Debug\Retail.Interface.pdb
+E:\Projects\RetailStoreApp\Retail.Interface\bin\Debug\Retail.Model.dll
+E:\Projects\RetailStoreApp\Retail.Interface\bin\Debug\Retail.Model.pdb
+E:\Projects\RetailStoreApp\Retail.Interface\obj\Debug\Retail.Interface.dll
+E:\Projects\RetailStoreApp\Retail.Interface\obj\Debug\Retail.Interface.pdb

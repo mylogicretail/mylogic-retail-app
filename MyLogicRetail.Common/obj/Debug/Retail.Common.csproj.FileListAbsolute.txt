@@ -1,0 +1,5 @@
+E:\Projects\RetailStoreApp\Retail.Common\bin\Debug\Retail.Common.dll
+E:\Projects\RetailStoreApp\Retail.Common\bin\Debug\Retail.Common.pdb
+E:\Projects\RetailStoreApp\Retail.Common\obj\Debug\Retail.Common.csprojResolveAssemblyReference.cache
+E:\Projects\RetailStoreApp\Retail.Common\obj\Debug\Retail.Common.dll
+E:\Projects\RetailStoreApp\Retail.Common\obj\Debug\Retail.Common.pdb
